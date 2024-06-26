@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header {
+    background-color: #000000;
+    color: white;
+    padding: 1rem 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .TitleMyFinance{
+    font-size: 1.5em;
+  }
+  
+  .header nav a {
+    color: white;
+    margin-left: 80px;
+    text-decoration: none;
+  }
+  
+  .home, .transactions {
+    padding: 2rem;
+  }
+  
+  .tableHome {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+  }
+  
+  th, td {
+    border: 1px solid #eeeeee;
+    padding: 8px;
+    text-align: center;
+  }
+  
+
+  
